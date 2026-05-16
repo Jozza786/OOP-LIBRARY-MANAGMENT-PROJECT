@@ -78,5 +78,5 @@ Data is saved every time you **add, delete, issue, or return** a book. When you 
 
 **Student Menu**
 
-<img width="664" height="300" alt="image" src="https://github.com/user-attachments/assets/dd64dd0d-3b99-4c84-a69d-99fee9c6671c" />
+<img width="364" height="260" alt="image" src="https://github.com/user-attachments/assets/dd64dd0d-3b99-4c84-a69d-99fee9c6671c" />
 
