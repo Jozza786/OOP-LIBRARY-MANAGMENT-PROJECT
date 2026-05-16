@@ -29,7 +29,7 @@ A console-based Library Management System built in C++ that demonstrates all six
 
 ## Uml 
 
-<img width="717" height="721" alt="image" src="https://github.com/user-attachments/assets/0d5c7033-607e-47aa-a3e8-5dc461ad9912" />
+<img width="317" height="321" alt="image" src="https://github.com/user-attachments/assets/0d5c7033-607e-47aa-a3e8-5dc461ad9912" />
 
 
 ##  Features
@@ -68,12 +68,12 @@ Data is saved every time you **add, delete, issue, or return** a book. When you 
 
 **Login Screen**
 
-<img width="672" height="277" alt="image" src="https://github.com/user-attachments/assets/3a6a8b21-570e-4f65-83b4-ffadc6494652" />
+<img width="372" height="200" alt="image" src="https://github.com/user-attachments/assets/3a6a8b21-570e-4f65-83b4-ffadc6494652" />
 
 
 **Admin Menu**
 
-<img width="659" height="567" alt="image" src="https://github.com/user-attachments/assets/8593fef1-ca21-42dd-bf5f-ca00f85a01ac" />
+<img width="359" height="267" alt="image" src="https://github.com/user-attachments/assets/8593fef1-ca21-42dd-bf5f-ca00f85a01ac" />
 
 
 **Student Menu**
